@@ -34,6 +34,12 @@ public class InteractionTest {
         String data=emailInput.getAttribute("value");
         assertEquals(data,email);
 
+        //create local branch
+        //make changes and commit changes
+        //push changes to remote repo
+        //compare new changes with previous version on github (remote)
+
+        //new changes
 
         //Clear Element
         // Clear field to empty it from any previous data
