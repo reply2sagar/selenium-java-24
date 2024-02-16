@@ -16,7 +16,7 @@
 
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
-@rem  my comment ddddddddd 3
+@rem  my comment ddddddddd 3 4
 @rem  Gradle startup script for Windows
 @rem
 @rem ##########################################################################
